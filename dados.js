@@ -15,7 +15,7 @@ let dados = [
     {nome:"Noites Brancas",
         descricao:"Noites Brancas é um romance de Fiódor Dostoiévski que conta a história do encontro entre um sonhador e uma jovem desiludida. O livro se passa em São Petersburgo, no século XIX, durante um período em que as noites não escurecem.",
         link:"https://www.antofagica.com.br/produto/noites-brancas/",
-        img:"https://www.indicalivros.com/livros/noites-brancas-serie-landpm-pocket-plus-fiodor-dostoievski/noites-brancas-serie-landpm-pocket-plus-fiodor-dostoievski-capa.webp",
+        img:"https://cdl-static.s3-sa-east-1.amazonaws.com/covers/gg/9788582850749/noites-brancas.jpg",
         },
 
     {nome:"O Retrato de Dorian Gray",

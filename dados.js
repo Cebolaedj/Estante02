@@ -1,3 +1,4 @@
+
 let dados = [
     {nome: "Além do Bem e do Mal", 
     descricao: "Nesta obra, cujo tema é, sobretudo, a precariedade cultural e espiritual do seu tempo, Nietzsche afirma a necessidade de que, no eterno retorno da vida e da história humana, os homens se ergam, aceitando a própria finitude, ultrapassando a própria condição e vivendo soberanamente no gozo e na dor da própria verdade.",
